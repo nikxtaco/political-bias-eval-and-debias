@@ -1,6 +1,6 @@
 ### Data
 
-- Run `preprocess_data.py` to save the json splits into a pkl format.
+- Run `preprocess_data.py` to save the json splits into a pkl format. Make sure to have the source github repo folder (Article-Bias-Prediction) in the root directory.
 - Run `load_data_and_explore.py` to load the data and explore it in a notebook.
 
 ### Finetuning a Classifier
